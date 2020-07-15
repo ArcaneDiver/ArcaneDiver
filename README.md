@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I'm Michele, and i like develop kinda everything from minecraft mods to Oauth Servers.
 
 ![Just a wave](http://static.skaip.org/img/emoticons/180x180/f6fcff/waterwave.gif)
 <!--
