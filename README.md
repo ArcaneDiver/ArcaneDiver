@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Just a wave](http://static.skaip.org/img/emoticons/180x180/f6fcff/waterwave.gif)
 <!--
 **ArcaneDiver/ArcaneDiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
