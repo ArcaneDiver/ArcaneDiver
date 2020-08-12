@@ -1,6 +1,10 @@
 ### Hi there 👋
 #### I'm Michele, and i like develop kinda everything from Minecraft mods to Oauth Servers. 
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on the Coding Bunker Website 
 - 🌱 I’m currently learning GatsbyJS
 - 📫 How to reach me: [michele.dellamea@bearzi.org](mailto:michele.dellmaea@bearzi.org)
@@ -19,7 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
