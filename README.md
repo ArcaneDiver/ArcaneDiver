@@ -1,11 +1,8 @@
 ### Hi there 👋
 #### I'm Michele, and i like develop kinda everything from Minecraft mods to Oauth Servers. 
 
-![Just a wave](http://static.skaip.org/img/emoticons/180x180/f6fcff/waterwave.gif)
-
-
-- 🔭 I’m currently working on a project called Dev's Space
-- 🌱 I’m currently learning VueJS (it's better then i expected 😊)
+- 🔭 I’m currently working on the Coding Bunker Website 
+- 🌱 I’m currently learning GatsbyJS
 - 📫 How to reach me: [michele.dellamea@bearzi.org](mailto:michele.dellmaea@bearzi.org)
 
 <!--
@@ -23,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
