@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on the Coding Bunker Website 
-- 🌱 I’m currently learning GatsbyJS
+- 🌱 I’m actually participating at the Hacktoberfest
 - 📫 How to reach me: [michele.dellamea@bearzi.org](mailto:michele.dellmaea@bearzi.org)
 
 <!--
