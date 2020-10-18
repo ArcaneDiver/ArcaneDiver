@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Michele, and i like develop kinda everything from Minecraft mods to Oauth Servers. 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
