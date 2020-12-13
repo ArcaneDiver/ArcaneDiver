@@ -1,25 +1,11 @@
 ### Hi there 👋
-#### I'm Michele, and i like develop kinda everything from Minecraft mods to Oauth Servers. 
+#### I'm Michele a 18 years old developer.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArcaneDiver&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--- 
 
-- 🔭 I’m currently working on the Coding Bunker Website 
-- 🌱 I’m actually participating at the Hacktoberfest
-- 📫 How to reach me: [michele.dellamea@bearzi.org](mailto:michele.dellmaea@bearzi.org)
-
-<!--
-**ArcaneDiver/ArcaneDiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project called Dev's Space
-- 🌱 I’m currently learning VueJS (it's better then i expected 😊)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [michele.dellamea@bearzi.org](mailto:michele.dellmaea@bearzi.org)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ArcaneDiver&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDiver&layout=compact" />
+</div>
