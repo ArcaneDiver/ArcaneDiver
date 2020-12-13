@@ -1,5 +1,5 @@
-<h2 align="center">Hi there 👋</h1>
-<h4 align="center">I'm Michele a 18 year old developer.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Michele a 18 year old developer.</h3>
 
 --- 
 
