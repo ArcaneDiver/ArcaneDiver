@@ -1,8 +1,6 @@
 ### Hi there 👋
 #### I'm Michele a 18 years old developer.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 --- 
 
 <div>
